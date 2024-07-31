@@ -1,2 +1,2 @@
-version_1_0/Ressources/Faces/*.*
-.gitignore
+/version_1_0/Ressources/Faces/*.*
+/.gitignore
